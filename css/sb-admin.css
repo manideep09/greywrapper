@@ -828,3 +828,29 @@ overflow-y:hidden;
 .text-success {
     color: #3aab9c;
 }
+
+.dash-demo{position: absolute; left: 15px; top: 9px; float: right; font-size: 16px; color: #E4971B;}
+
+.dash-demo-txt{position: relative; right: -22px; top:12px; float: right; color: #ddd;}
+
+.viz-demo{position: absolute; left: 15px; top: 6px; float: right; font-size: 16px; color: #E4971B;}
+
+.viz-demo-txt{position: relative; right: -22px; top:12px; float: right; color: #ddd;}
+
+.data-demo{position: absolute; left: 15px; top: 6px; float: right; font-size: 16px; color: #E4971B;}
+
+.data-demo-txt{position: relative; right: -22px; top:12px; float: right; color: #ddd;}
+
+.pushdata-demo{position: absolute; left: 41px; top: -26px; float: right; font-size: 20px; color: #E4971B;}
+
+.pushdata-demo-txt{position: relative; left: -100px; top: -5px; width: 200px; color: #ddd;}
+
+.l-h26{line-height: 26px;}
+
+.red-color{color:#d9534f;}
+
+.logo-icon{color:#4D5F71; font-size:17px;}
+
+.toggle-btn{color:#fff; font-size:16px;}
+
+.b-none{border:0px solid !important;}
