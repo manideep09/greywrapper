@@ -790,7 +790,7 @@ ul.alert-dropdown {
 
 @media screen and (min-width: 720px) {
 .navbar-inverse .navbar-nav > li > a {
-    color: #fff;
+    color: #b9b9b9;
     font-size: 13px;
     line-height: 22px;
 }
@@ -854,3 +854,76 @@ overflow-y:hidden;
 .toggle-btn{color:#fff; font-size:16px;}
 
 .b-none{border:0px solid !important;}
+
+.fa-postion{    position: relative;
+    top: 3px;}
+	
+.js-plotly-plot .plotly .modebar { top:20px; }
+
+.card-box {
+    padding: 20px;
+    border-radius: 0px;
+    background-clip: padding-box;
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, .15);
+}
+
+.staticTableScroll {
+    height: 450px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.ibox { clear: both; margin-bottom: 25px; margin-top: 0; padding: 0; }
+
+.ibox.collapsed .ibox-content { display: none; }
+
+.ibox.collapsed .fa.fa-chevron-up:before { content: "\f078"; }
+
+.ibox.collapsed .fa.fa-chevron-down:before { content: "\f077"; }
+
+.ibox:after, .ibox:before { display: table; }
+
+.ibox-title { -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-right-colors: none; -moz-border-top-colors: none; background-color: #ffffff; border-color: #e7eaec; border-image: none; border-style: solid solid none; border-width: 3px 0 0; color: inherit; margin-bottom: 0; padding: 14px 15px 7px; min-height: 48px; }
+
+.ibox-content { background-color: #ffffff; color: inherit; padding: 15px 20px 20px 20px; border-color: #e7eaec; border-image: none; border-style: solid solid none; border-width: 1px 0; }
+
+.ibox-footer { color: inherit; border-top: 1px solid #e7eaec; font-size: 90%; background: #ffffff; padding: 10px 15px; }
+
+.ibox-title h5 { display: inline-block; font-size: 14px; margin: 0 0 7px; padding: 0; text-overflow: ellipsis; float: left; }
+
+.stat-list li:first-child { margin-top: 0; }
+
+.stat-list { list-style: none; padding: 0; margin: 0; }
+
+.stat-percent { float: right; }
+
+.stat-list li { margin-top: 15px; position: relative; }
+
+
+.label { color: #ffffff !important; }
+
+.label-primary { background-color: #3bafda; }
+
+.label-success { background-color: #00b19d; }
+
+.label-info { background-color: #3ddcf7; }
+
+.label-warning { background-color: #ffaa00; }
+
+.label-danger { background-color: #ef5350; }
+
+.label-purple { background-color: #7266ba; }
+
+.label-pink { background-color: #f76397; }
+
+.label-dark { background: #4f595b; }
+
+.label-inverse { background-color: #4c5667; }
+
+ .dropdown-menu li{ cursor: pointer; }
+ 
+ .bg-grey {
+    background: #f5f4f6 !important;
+}
